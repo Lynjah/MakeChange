@@ -1,0 +1,7 @@
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\obj\Debug\MakeChange.csprojAssemblyReference.cache
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\obj\Debug\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\bin\Debug\MakeChange.exe.config
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\bin\Debug\MakeChange.exe
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\bin\Debug\MakeChange.pdb
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\maste\Desktop\MSSA\ISTA 220\MakeChange\MakeChange\MakeChange\obj\Debug\MakeChange.pdb
